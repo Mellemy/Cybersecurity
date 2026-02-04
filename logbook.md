@@ -14,3 +14,10 @@
 | 27.1.2026 | 2 | Reading material, completing labs, fixing Parrot OS. |Four first labs completed. Enviroment finally stable.|
 | 28.1.2026 | 0.5 | Access control labs |Two more labs completed|
 | 28.1.2026 | 0.5 | Updating logbook, cleaning up material, returning exercises|Completion of Task 3 in itslearning|
+| 4.2.2026 | 1.5 | lesson 3 intro to booking system|Lesson complete|
+| 4.2.2026 | 1.0 | Setting up Kali Linux VM|Successful|
+| 4.2.2026 | 1.0 | Docker setup, ZAP installation|Docker mostly done, ZAP installed|
+| 5.2.2026 | 1.0 | Docker setup, finalizing enviroment|Virtual machine testing enviroment ready|
+| 5.2.2026 | 1.5 | Testing with Zap, compiling report|Testing done. ZAP report done and added|
+| 5.2.2026 | 1.0 | Finishing reports, updating log, returning exercises|Completion of booking system phase 1 part 1|
+
