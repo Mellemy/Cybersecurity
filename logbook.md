@@ -20,4 +20,5 @@
 | 5.2.2026 | 1.0 | Docker setup, finalizing enviroment|Virtual machine testing enviroment ready|
 | 5.2.2026 | 1.5 | Testing with Zap, compiling report|Testing done. ZAP report done and added|
 | 5.2.2026 | 1.0 | Finishing reports, updating log, returning exercises|Completion of booking system phase 1 part 1|
-
+| 10.2.2026 | 1.0 | Completing second round of ZAP tests|Completed|
+| 10.2.2026 | 1.0 | Writing report of the test|Completion of booking system phase 1 part 2|
