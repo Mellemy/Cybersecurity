@@ -22,3 +22,5 @@
 | 5.2.2026 | 1.0 | Finishing reports, updating log, returning exercises|Completion of booking system phase 1 part 1|
 | 10.2.2026 | 1.0 | Completing second round of ZAP tests|Completed|
 | 10.2.2026 | 1.0 | Writing report of the test|Completion of booking system phase 1 part 2|
+| 12.2.2026 | 0.5 | Setting up phase 2, Zap round 3|Zep report in github|
+
