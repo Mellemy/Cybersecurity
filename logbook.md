@@ -27,3 +27,5 @@
 | 16.2.2026 | 1.0 |Set up, phase 3 lesson|Enviroment ready|
 | 16.2.2026 | 1.0 |Authentication testing, zap report|Zap report ready|
 | 16.2.2026 | 1.0 |Authentication report and final tests.|Completion of phase 3|
+| 3.3.2026 | 3.0 |Cyberlab|Completion of lab|
+| 11.3.2026 | 1.5 |Final report|Completion of course|
